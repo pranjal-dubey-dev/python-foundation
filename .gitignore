@@ -19,7 +19,8 @@ env/
 .DS_Store
 Thumbs.db
 
-# practice files
+# practice files and directories
 test.log
 app.log
 person.json
+for_testing
